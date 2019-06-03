@@ -1,0 +1,48 @@
+.pageHeader {
+  text-align: center;
+}
+
+.list {
+  overflow: hidden;
+  /* display: flex; */
+  /* column-count: 3; */
+  /* flex-flow: wrap column; */
+  /* align-items: left; */
+  /* align-self: center; */
+  /* align-content: space-between; */
+  /* flex-direction: column; */
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+  /* order: 1; */
+  /* flex: content; */
+  /* align-content: stretch; */
+  /* flex-basis: 20%; */
+  /* align-content: flex-start; */
+  /* text-align: left; */
+  
+}
+
+.list .shop {
+
+display: flex;
+  float: left;
+  width: 30%;
+  text-align: left;
+  /* text-justify: inter-word; */
+  align-content: left;
+  
+}
+
+.shop {
+    display: flex;
+    /* column-count: 3; */
+    /* order: 3; */
+    justify-content: center;
+    /* align-content: flex-start; */
+    /* align-self: flex-start; */
+    /* align-content: flex-end; */
+    /* column-span: left; */
+    /* text-align: justify; */
+    /* text-justify: none; */
+    align-items: center;
+  }
